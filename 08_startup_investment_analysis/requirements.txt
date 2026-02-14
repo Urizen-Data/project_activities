@@ -1,0 +1,6 @@
+!pip install phik 
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+from phik import phik_matrix
+import numpy as np
