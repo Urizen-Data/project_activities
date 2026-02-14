@@ -1,0 +1,7 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+import matplotlib.colors as mcolors
+from matplotlib.colors import ListedColormap 
+import numpy as np
+from sklearn.cluster import KMeans
